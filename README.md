@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple FastAPI App
 
 A minimal FastAPI application with a hello endpoint and basic in-memory CRUD for items.
@@ -43,3 +44,6 @@ curl -X POST http://127.0.0.1:8000/items \
 ## Notes
 
 Items are stored in memory, so data is lost when the server restarts.
+=======
+# fastapi-basics
+>>>>>>> 5d21eb75103692ac8697750314ee1d2924c1b125
